@@ -26,6 +26,9 @@
                 <button id="submit-login" type="submit">-></button>
             </div>
         </form>
+
+        <p style="text-align:center; margin-top:5vh;">The default login is username 40028922 and password admin</p>
+        <p style="text-align:center; margin-top:1vh;">The database is reset every day</p>
     </main>
 
     <script src="Mvc/view/js/toggleTheme.js"></script>
